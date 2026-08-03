@@ -23,7 +23,7 @@ jobs:
       - name: Generate bomberman graph
         uses: abozanona/bomberman-contribution-graph@main
         with:
-          github_user_name: jattu8602
+          github_user_name: kunwarxshashank
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
