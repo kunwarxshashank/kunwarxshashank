@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate bomberman graph
-        uses: abozanona/bomberman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: kunwarxshashank
 
