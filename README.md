@@ -108,7 +108,7 @@ An open-source, protocol-agnostic media streaming platform built as a single cod
 
 <br>
 
-### 🛒 [Rogplay](https://neardeal.app)  — Hyper Local & Community Driven Marketplace App
+### 🛒 [Neardeal](https://neardeal.app)  — Hyper Local & Community Driven Marketplace App
 *Startup — Product, Backend & Growth*
  
 A marketplace app connecting local buyers and sellers & exploring local events and communities,  built end-to-end from backend architecture to product strategy.
