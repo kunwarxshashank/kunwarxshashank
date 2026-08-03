@@ -116,10 +116,12 @@ An open-source, protocol-agnostic media streaming platform built as a single cod
 ## GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunwarxshashank&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunwarxshashank&layout=compact&hide_border=true)
-
+<!-- bomberman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunwarxshashank/kunwarxshashank/output/bomberman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunwarxshashank/kunwarxshashank/output/bomberman-contribution-graph.svg">
+    <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/kunwarxshashank/kunwarxshashank/output/bomberman-contribution-graph.svg">
+</picture>
 </div>
 
 ---
