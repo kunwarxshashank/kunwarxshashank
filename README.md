@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kunwar Shashank Mishra 👋
+# Hi, I'm Kunwar Shashank Mishra AKA HIGHRISK -_+ 👋
 
 ### Software Engineer — Full-Stack & Mobile Development | Application Security
 
@@ -13,6 +13,9 @@ Building cross-platform products end-to-end, with a security-first mindset.
 </div>
 
 ---
+
+**I do coding for money**&nbsp;&nbsp;![](typing.gif)&nbsp;&nbsp;**and engineering for passion**&nbsp;&nbsp;![](giphy.gif)
+
 
 ## About Me
 
