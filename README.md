@@ -14,7 +14,7 @@ Building cross-platform products end-to-end, with a security-first mindset.
 
 ---
 
-**I write code ** <img src="assets/typing.gif" width="60" height="60"> &nbsp; **and build scalable products not for showcase** <img src="assets/giphy.gif" width="50" height="50">
+**I write code** <img src="assets/typing.gif" width="60" height="60"> &nbsp; **and build scalable products not for showcase** <img src="assets/giphy.gif" width="50" height="50">
 
 
 ## About Me
