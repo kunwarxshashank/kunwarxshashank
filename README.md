@@ -14,7 +14,7 @@ Building cross-platform products end-to-end, with a security-first mindset.
 
 ---
 
-**I write code** <img src="assets/typing.gif" width="60" height="60"> &nbsp; **and build scalable products not for showcase** <img src="assets/giphy.gif" width="50" height="50">
+**I write code**  <img src="assets/typing.gif" width="60" height="60"> &nbsp; **and build scalable products not for showcase** <img src="assets/giphy.gif" width="50" height="50">
 
 
 ## About Me
@@ -108,7 +108,7 @@ An open-source, protocol-agnostic media streaming platform built as a single cod
 
 <br>
 
-### 🛒 Neardeal — Hyper Local & Community Driven Marketplace App
+### 🛒 [Rogplay](https://neardeal.app)  — Hyper Local & Community Driven Marketplace App
 *Startup — Product, Backend & Growth*
  
 A marketplace app connecting local buyers and sellers & exploring local events and communities,  built end-to-end from backend architecture to product strategy.
