@@ -14,7 +14,7 @@ Building cross-platform products end-to-end, with a security-first mindset.
 
 ---
 
-**I do coding for money**&nbsp;&nbsp;![](typing.gif)&nbsp;&nbsp;**and engineering for passion**&nbsp;&nbsp;![](giphy.gif)
+**I do coding for money**&nbsp;&nbsp;![](assets/typing.gif)&nbsp;&nbsp;**and engineering for passion**&nbsp;&nbsp;![](assets/giphy.gif)
 
 
 ## About Me
