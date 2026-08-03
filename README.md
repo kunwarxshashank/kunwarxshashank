@@ -16,13 +16,12 @@ Building cross-platform products end-to-end, with a security-first mindset.
 
 ## About Me
 
-- 🎓 B.Tech in Computer Science, Lakshmi Narain College of Technology, Bhopal (2023 – 2027)
+- 🎓 B.Tech in Computer Science (2023 – 2027)
 - 🏆 **National Finalist**, Smart India Hackathon 2025 (Government of India, Ministry of Railways)
 - 🥇 **Winner**, BID2HACK Hackathon 2025
 - 🔐 Application security practitioner — VAPT, cloud security, and secure-by-design engineering
 - 🎬 Building **Rogplay**, an open-source cross-platform media streaming engine (Android · iOS · Web · TV)
 - 🐞 Former QA Engineer Intern @ Vidyatan Technologies — regression testing & defect triage at scale
-- 📍 Based in Bhopal, Madhya Pradesh, India
 
 ---
 
@@ -101,6 +100,16 @@ An open-source, protocol-agnostic media streaming platform built as a single cod
 - 🔄 Real-time **Watch Party** system using WebSocket-based state sync — sub-second drift across concurrent viewers
 - 🧩 Sandboxed, JavaScript-based **addon runtime** enabling new content providers to be added without app updates (browser-extension-style plugin architecture)
 - 📱 Single React Native + Expo codebase spanning Android, iOS, Web, and TV — maximizing code reuse without sacrificing native playback performance
+
+
+### 🛒 Neardeal — Hyper Local & Community Driven Marketplace App
+*Startup — Product, Backend & Growth*
+ 
+A marketplace app connecting local buyers and sellers & exploring local events and communities,  built end-to-end from backend architecture to product strategy.
+ 
+- 🏗️ Core marketplace features: listings, buying/selling, events, in-app chat, KYC verification, and community
+- 🔌 Backend built on **Node.js/Express**, with **Socket.io** for real-time chat and **Firebase** for push notifications
+- 🎯 Designing novel retention mechanics — Live Deal Rooms, Swap Chains, and Event Squad Matching
 
 ---
 
